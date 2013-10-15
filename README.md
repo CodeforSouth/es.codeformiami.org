@@ -1,7 +1,7 @@
 http://codeformiami.org
 ===================
 
-Landing page for the Spanish translated site of *Code for Miami*, originally a fork of the landing page for *Code for Hampton Roads*
+Landing page for *Code for Miami*, originally a fork of the landing page for *Code for Hampton Roads*
 
 #How to Code for this Repo
 Fork, Edit, then Pull Request when ready.
@@ -10,7 +10,7 @@ Fork, Edit, then Pull Request when ready.
 [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0)
 
 #Attribution and Thanks
-From the Code for Miami code repo, special thanks to the following Code for Miami brigade members who contributed to the translation of the Code for Miami copy to Spanish: Miguel Herrnsdorf.
+From the Code for Miami code repo, special thanks to the following Code for Miami brigade members who saw this project to fruition: Cristina Solana, Antonio Llanos. And you, if you plan on making improvements to this website!
 
 From the original Code for Hampton Roads repo: This repo and the site codeforvirginiabeach.org uses Twitter Bootstrap and started from their [Carousel jumbotron](http://twitter.github.com/bootstrap/examples/carousel.html) template. They are awesome.
 
