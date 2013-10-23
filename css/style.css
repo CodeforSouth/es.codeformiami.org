@@ -56,7 +56,18 @@
     .navbar .btn-navbar {
       margin-top: 10px;
     }
-
+    
+    /* Increase height to extend across navbar */
+    .navbar .divider-vertical {
+      height: 50px;
+    }
+    
+    /* LANGUAGE MENU
+    -------------------------------------------------- */
+    
+    .nav.language-menu a {
+            font-size: 85%;
+    }
 
 
     /* CUSTOMIZE THE NAVBAR
@@ -206,6 +217,13 @@
       .navbar-inner {
         border-radius: 0;
         margin: -20px 0;
+      }
+      
+      .nav.language-menu {
+            margin-top: -10px; /* Negative margin to pull up language menu nav. */
+      }
+      .nav.language-menu a {
+            font-size: 100%;
       }
 
       .carousel .item {
