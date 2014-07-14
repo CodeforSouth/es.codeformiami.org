@@ -59,15 +59,9 @@
     
     /* Increase height to extend across navbar */
     .navbar .divider-vertical {
-      height: 50px;
+	  height: 50px;
     }
-    
-    /* LANGUAGE MENU
-    -------------------------------------------------- */
-    
-    .nav.language-menu a {
-            font-size: 85%;
-    }
+
 
 
     /* CUSTOMIZE THE NAVBAR
@@ -126,7 +120,14 @@
     .carousel-caption .btn {
       margin-top: 10px;
     }
-
+    
+    
+    /* LANGUAGE MENU
+    -------------------------------------------------- */
+    
+    .nav.language-menu a {
+	    font-size: 85%;
+    }
 
 
     /* MARKETING CONTENT
@@ -220,10 +221,10 @@
       }
       
       .nav.language-menu {
-            margin-top: -10px; /* Negative margin to pull up language menu nav. */
+	    margin-top: -10px; /* Negative margin to pull up language menu nav. */
       }
       .nav.language-menu a {
-            font-size: 100%;
+	    font-size: 100%;
       }
 
       .carousel .item {
